@@ -67,12 +67,6 @@ Source files
 
    implementation
 
-Inference system
-++++++++++++++++
-
-The system described below allows is a full design of our projected solution for Object detection. Frames will first be created from a video stream and those frames will be sent to our end-to-end detection model which will then send its predictions to a prediction interpreter, doing the job of deciding whether or not to raise an alarm.
-
-.. figure::   images/inference_system.png
 
 
 
